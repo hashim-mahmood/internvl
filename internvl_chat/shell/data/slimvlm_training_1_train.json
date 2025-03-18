@@ -1,0 +1,9 @@
+{
+    "all_data": {
+        "root": "/ssd1/hashim/slimvlm_training_1_finalized_data/final_data_merged/train_images",
+        "annotation": "/ssd1/hashim/slimvlm_training_1_finalized_data/final_data_merged/jsonl_files/train.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 33626
+    }
+}
